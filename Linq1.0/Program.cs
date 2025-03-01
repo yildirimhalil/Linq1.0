@@ -206,7 +206,7 @@ foreach (int sayi in sayilar)
 
 
 
-//Kullanıcıdan alınan sayıları listeye ekleyen ve bu sayıların 10'dan küçük olanlarını silen program
+//Kullanıcıdan alınan sayıları listeye ekleyen ve bu sayıların 10'dan küçük olanlarını silen program.
 List<int> sayilar = new List<int>();
 
 while(true)
