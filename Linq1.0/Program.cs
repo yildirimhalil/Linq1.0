@@ -205,7 +205,7 @@ foreach (int sayi in sayilar)
 */
 
 
-/*
+
 //Kullanıcıdan alınan sayıları listeye ekleyen ve bu sayıların 10'dan küçük olanlarını silen program
 List<int> sayilar = new List<int>();
 
@@ -227,7 +227,7 @@ foreach (int sayi in sayilar)
 {
     Console.WriteLine(sayi);
 }
-*/
+
 
 List<int> sayilar = new List<int> { 10, 20, 30, 40, 50, 60, 70, 80, 90, 100 };
 
