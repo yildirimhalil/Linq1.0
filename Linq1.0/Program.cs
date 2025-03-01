@@ -179,6 +179,7 @@ foreach (string kelime in kelimeler)
 }
 */
 
+
 /*
 //Kullanıcıdan ratgele sayılar alıp listeye ekleyen,bu sayıların ortalamasını alan ve bu sayıları küçükten büyüğe sıralayan algoritma
 List<int> sayilar = new List<int>();
